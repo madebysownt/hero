@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hero Project (Under Development)
+This is a project supporting self-study programs (currently Google Cloud and Android self-study 
+programs) called Hero.
+
+The backend part is hosted on [hero-backend](https://github.com/madebysownt/hero-backend) repository.
 
 ## Getting Started
 
